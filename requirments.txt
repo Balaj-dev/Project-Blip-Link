@@ -1,0 +1,1 @@
+silero-vad, fastapi, datetime, async, Vosk, mcp, ollama, piper-tts,
