@@ -33,7 +33,7 @@ pnpm-debug.log*
 .electron-builder/
 .crashpad_database/
 
-
+test.py
 .env
 .env.local
 .env.development.local

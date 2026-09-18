@@ -1,1 +1,10 @@
-silero-vad, fastapi, datetime, async, Vosk, mcp, ollama, piper-tts,
+silero-vad
+fastapi
+asyncio
+Vosk
+mcp
+ollama
+piper-tts
+unicorn
+websockets
+httpx
